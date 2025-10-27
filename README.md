@@ -41,20 +41,15 @@ The work highlights the significance of experimental stress analysis for underst
 ### Photoelasticity Principle  
 Photoelasticity is based on **birefringence**, a property where stressed transparent materials exhibit different refractive indices. When viewed under polarized light, this stress-induced birefringence creates **isochromatic fringes** corresponding to regions of equal principal stress difference.
 
+
 ### Stress-Optic Law  
-The difference in principal stresses is related to the observed fringe order by:
+The experiment was based on the **stress-optic law**, where the birefringence of a stressed transparent material is proportional to the difference in principal stresses:
 
 \[
-\sigma_1 - \sigma_2 = \frac{N \cdot \lambda}{t \cdot C}
+\Delta n = C(\sigma_1 - \sigma_2)
 \]
 
-where:  
-- \( N \): Fringe order  
-- \( \lambda \): Wavelength of light  
-- \( t \): Thickness of the specimen  
-- \( C \): Stress-optic coefficient  
-
-This relation enables quantitative stress analysis from experimental fringe patterns.
+Fringe patterns (isochromatic lines) represent regions of equal principal stress difference, revealing how internal stresses vary across the model.
 
 ---
 
